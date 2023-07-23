@@ -1,0 +1,13 @@
+{
+  "name": "@enermax626/utils",
+  "version": "0.0.1",
+  "description": "Array method sample",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "author": "Murilo lalala",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "files": ["lib","package.json"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "enermax626utils",
+  "version": "1.0.0",
+  "description": "array sample",
+  "scripts": {
+    "compile": "rm -rf ./dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "author": "Murilo",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}

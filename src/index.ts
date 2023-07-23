@@ -1,0 +1,1 @@
+export {pluck, test} from './array/pluck'
